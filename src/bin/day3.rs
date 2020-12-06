@@ -1,4 +1,3 @@
-#![allow(unused_variables)]
 #![feature(test)]
 
 use benchtest::benchtest;
